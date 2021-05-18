@@ -29,7 +29,10 @@ Fundamental concepts to be covered in the training:
   
     <https://angular.io/guide/file-structure>
   
+  
   > **HOMEWORK:** create a GitHub repository. Install NPM and then Angular CLI via NPM globally. Create an Angular app using Angular CLI. Run app in dev mode, create prod build. Push projects to repository.
+
+***
   
 2.
   - Explain component based architecture in common
