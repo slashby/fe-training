@@ -79,7 +79,7 @@ Fundamental concepts to be covered in the training:
 5.
   - How Angular sync model and view. Zone.js, change detection.
   - Different change detection strategies.
-  - RxJs library. How it is used by Angular.
+  - RxJS library. How it is used by Angular.
   - Services in Angular.
   
   
@@ -89,7 +89,12 @@ Fundamental concepts to be covered in the training:
   
 6. 
   - Application state management. Redux pattern.
+
+    <https://www.linkedin.com/pulse/understanding-state-management-front-end-paradigm-jitendrasinh-gohil/?articleId=6691234562036563968>
+
   - Angular libraries for state management. NgXs.
+
+    <https://www.ngxs.io/getting-started/why>
   
   
   > **HOMEWORK:** HOMEWORK: add NgXs library to the app. Refactor the app and add application state management based on NgXs.
