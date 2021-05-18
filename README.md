@@ -52,7 +52,10 @@ Fundamental concepts to be covered in the training:
   
     <https://angular.io/guide/architecture-modules>
   
-  HOMEWORK: Create a new module in the app. Add a stub component which will be used as dashboard with TODO list. Import the module to App module and use the created component.
+  
+  > **HOMEWORK:** HOMEWORK: Create a new module in the app. Add a stub component which will be used as dashboard with TODO list. Import the module to App module and use the created component.
+
+***
 
 3. 
   - Routing in web applications.
@@ -60,13 +63,18 @@ Fundamental concepts to be covered in the training:
   - Feature modules. Lazy-loaded feature modules.
   - Debugging Angular app.
   
-  HOMEWORK: Refactor app structure. Create feature modules for TODO list page(s) and for About page. Add navigation between TODO and About pages to main app component. Use lazy loading for the feature modules. Try to debug app using DevTools in Google Chrome.
+  
+  > **HOMEWORK:** HOMEWORK: Refactor app structure. Create feature modules for TODO list page(s) and for About page. Add navigation between TODO and About pages to main app component. Use lazy loading for the feature modules. Try to debug app using DevTools in Google Chrome.
+
+***
 
 4. 
   - Dependency injection pattern. Dependency injection in angular.
   - Reactive forms.
   
-  HOMEWORK: create form component to add TODO item (Use reactive form). Register a new page with this component. Add "Create TODO item" button to TODO list page and navigate to new TODO item page by click.
+  > **HOMEWORK:** HOMEWORK: create form component to add TODO item (Use reactive form). Register a new page with this component. Add "Create TODO item" button to TODO list page and navigate to new TODO item page by click.
+
+***
   
 5.
   - How Angular sync model and view. Zone.js, change detection.
@@ -74,16 +82,25 @@ Fundamental concepts to be covered in the training:
   - RxJs library. How it is used by Angular.
   - Services in Angular.
   
-  HOMEWORK: Add service(s) to work with TODO list data (retrive list, add new item).
+  
+  > **HOMEWORK:** HOMEWORK: Add service(s) to work with TODO list data (retrive list, add new item).
+
+***
   
 6. 
   - Application state management. Redux pattern.
   - Angular libraries for state management. NgXs.
   
-  HOMEWORK: add NgXs library to the app. Refactor the app and add application state management based on NgXs.
   
+  > **HOMEWORK:** HOMEWORK: add NgXs library to the app. Refactor the app and add application state management based on NgXs.
+  
+***
+
 7.
   - CSS preprocessors. SCSS. How to add styles to components in angular.
   - Some tools to increase code quality (TSLint/ESlint, Prettier)
   
-  HOMEWORK: Run TSLint using Angular CLI. Add styles to components in app. Try different ViewEncapsulation modes.
+  
+  > **HOMEWORK:** HOMEWORK: Run TSLint using Angular CLI. Add styles to components in app. Try different ViewEncapsulation modes.
+
+***
