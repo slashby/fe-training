@@ -58,9 +58,16 @@ Fundamental concepts to be covered in the training:
 ***
 
 3. 
-  - Routing in web applications.
+  - Routing in single page applications.
+
+    <https://dev.to/marcomonsanto/routing-in-spas-173i>
+
   - Angular project structure.
+  
   - Feature modules. Lazy-loaded feature modules.
+
+    <https://angular.io/guide/feature-modules>
+
   - Debugging Angular app.
   
   
