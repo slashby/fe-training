@@ -11,7 +11,7 @@ Fundamental concepts to be covered in the training:
 3. NgXs libary for application state management.
 
 
-=== LESSONS ===
+## LESSONS
 
 1. 
   - Quick introduction to frontend frameworks (What's problem they are solved and why they exist)
