@@ -75,6 +75,11 @@ Fundamental concepts to be covered in the training:
 
   - Debugging web/Angular app.
   
+    Debug Angular app in IDEA <https://www.jetbrains.com/help/idea/angular.html#angular_running_and_debugging_debug>
+    
+    Debug Angular app in Visual Studio Code <https://code.visualstudio.com/docs/nodejs/angular-tutorial#_debugging-angular>
+  
+    Angular DevTools <https://angular.io/guide/devtools>
   
   > **HOMEWORK:** HOMEWORK: Refactor app structure. Uninstall Angular router and replace it with Angular UI-Router. Create feature modules for TODO list page(s) and for About page. Add navigation between TODO and About pages to main app component. Use lazy loading for the feature modules. Try to debug app using DevTools in Google Chrome.
 
