@@ -46,7 +46,6 @@ Fundamental concepts to be covered in the training:
   - What's directives? Difference directive types
   
     <https://angular.io/guide/built-in-directives>
-    <https://www.infragistics.com/community/blogs/b/infragistics/posts/angular-component-architecture-made-easy>
   
   - Angular modules
   
