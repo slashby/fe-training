@@ -61,17 +61,23 @@ Fundamental concepts to be covered in the training:
   - Routing in single page applications.
 
     <https://dev.to/marcomonsanto/routing-in-spas-173i>
+    
+  - Angular UI-Router
+
+    <https://ui-router.github.io/ng2/>
 
   - Angular project structure.
+
+    <https://itnext.io/choosing-the-right-file-structure-for-angular-in-2020-and-beyond-a53a71f7eb05>
   
   - Feature modules. Lazy-loaded feature modules.
 
     <https://angular.io/guide/feature-modules>
 
-  - Debugging Angular app.
+  - Debugging web/Angular app.
   
   
-  > **HOMEWORK:** HOMEWORK: Refactor app structure. Create feature modules for TODO list page(s) and for About page. Add navigation between TODO and About pages to main app component. Use lazy loading for the feature modules. Try to debug app using DevTools in Google Chrome.
+  > **HOMEWORK:** HOMEWORK: Refactor app structure. Uninstall Angular router and replace it with Angular UI-Router. Create feature modules for TODO list page(s) and for About page. Add navigation between TODO and About pages to main app component. Use lazy loading for the feature modules. Try to debug app using DevTools in Google Chrome.
 
 ***
 
