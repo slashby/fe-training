@@ -69,9 +69,11 @@ Fundamental concepts to be covered in the training:
 
     <https://itnext.io/choosing-the-right-file-structure-for-angular-in-2020-and-beyond-a53a71f7eb05>
   
-  - Feature modules. Lazy-loaded feature modules.
+  - Feature modules. Lazy-loaded feature modules
 
     <https://angular.io/guide/feature-modules>
+    
+    UI-Router lazy-loaded modules <https://ui-router.github.io/guide/lazyloading>
 
   - Debugging web/Angular app.
 
