@@ -74,6 +74,8 @@ Fundamental concepts to be covered in the training:
     <https://angular.io/guide/feature-modules>
 
   - Debugging web/Angular app.
+
+    Debugging in Google Chrome <https://stackoverflow.com/a/51941277>
   
     Debug Angular app in IDEA <https://www.jetbrains.com/help/idea/angular.html#angular_running_and_debugging_debug>
     
