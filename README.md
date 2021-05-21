@@ -99,6 +99,8 @@ Fundamental concepts to be covered in the training:
     <https://angular.io/guide/dependency-injection>
 
   - Reactive forms.
+
+    <https://angular.io/guide/reactive-forms>
   
   > **HOMEWORK:** HOMEWORK: create form component to add TODO item (Use reactive form). Register a new page with this component. Add "Create TODO item" button to TODO list page and navigate to new TODO item page by click.
 
