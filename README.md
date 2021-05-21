@@ -90,7 +90,14 @@ Fundamental concepts to be covered in the training:
 ***
 
 4. 
+  - Angular services
+
+    <https://angular.io/guide/architecture-services>
+
   - Dependency injection pattern. Dependency injection in angular.
+
+    <https://angular.io/guide/dependency-injection>
+
   - Reactive forms.
   
   > **HOMEWORK:** HOMEWORK: create form component to add TODO item (Use reactive form). Register a new page with this component. Add "Create TODO item" button to TODO list page and navigate to new TODO item page by click.
@@ -100,8 +107,7 @@ Fundamental concepts to be covered in the training:
 5.
   - How Angular sync model and view. Zone.js, change detection.
   - Different change detection strategies.
-  - RxJS library. How it is used by Angular.
-  - Services in Angular.
+  - RxJS library. How it is used by Angular
   
   
   > **HOMEWORK:** HOMEWORK: Add service(s) to work with TODO list data (retrive list, add new item).
