@@ -109,9 +109,15 @@ Fundamental concepts to be covered in the training:
 ***
   
 5.
-  - How Angular sync model and view. Zone.js, change detection.
-  - Different change detection strategies.
+  - How Angular sync model and view. Zone.js, change detection. Different change detection strategies.
+
+    <https://netbasal.com/a-comprehensive-guide-to-angular-onpush-change-detection-strategy-5bac493074a4>
+    
+    <https://angular.io/guide/zone>
+
   - RxJS library. How it is used by Angular
+
+    <https://angular.io/guide/observables>
     
 
 ***
@@ -124,6 +130,10 @@ Fundamental concepts to be covered in the training:
   - Angular libraries for state management. NgXs.
 
     <https://www.ngxs.io/getting-started/why>
+    
+    Sample project:
+    
+    <https://github.com/tommythongnguyen/Ngxs-Pizza-Order>
   
   
   > **HOMEWORK:** HOMEWORK: add NgXs library to the app. Refactor the app and add application state management based on NgXs.
